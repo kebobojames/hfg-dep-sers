@@ -5,6 +5,7 @@ This repository contains model implementations and other relevant code for the p
 We provide a YAML file, which can be used to replicate the Conda environment we used to run this codebase.
 ```
 conda env create -f environment.yml
+conda activate raman
 ```
 
 ## Data
